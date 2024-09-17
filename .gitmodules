@@ -1,0 +1,6 @@
+[submodule "external/code-virtualizer-sdk"]
+	path = external/code-virtualizer-sdk
+	url = https://github.com/orange-cpp/code-virtualizer-sdk.git
+[submodule "external/satsuma"]
+	path = external/satsuma
+	url = https://github.com/orange-cpp/satsuma
